@@ -1,0 +1,13 @@
+{
+  "name": "welcomeapp",
+  "version": "1.0.0",
+  "description": "\"First node js app\"",
+  "license": "ISC",
+  "author": "\"kiet mca\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  }
+}
